@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+
+.big-title{
+    font-size: 5rem;
+    color: rgb(10, 1, 1);
+    font-family: cursive;
+}
