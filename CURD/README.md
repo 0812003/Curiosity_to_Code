@@ -28,8 +28,8 @@ that demonstrates basic CRUD (Create, Read, Update, Delete) operations.
 
 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/crud-ejs-mongo.git
-cd crud-ejs-mongo
+git clone https://github.com/0812003/Curiosity_to_Code.git
+cd Curiosity_to_Code/CURD
 ```
 
 Install dependencies
